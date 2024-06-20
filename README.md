@@ -2,4 +2,4 @@
 
 Perkenalkan nama saya **Muhammad Naufal**.<br>
 
-Saya **bukan** seorang **Web Developer**.<br>
+Saya **bukan** seorang **Programmer**.<br>
