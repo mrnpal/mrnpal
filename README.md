@@ -1,5 +1,5 @@
-# Halo semua! 
+# Hello Everyone!!! 
 
-Perkenalkan nama saya **Muhammad Naufal**.<br>
+My Name is **Muhammad Naufal**.<br>
 
-Saya **bukan** seorang **Programmer**.<br>
+I am **not** a **Programmer**.<br>
