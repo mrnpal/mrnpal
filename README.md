@@ -8,7 +8,7 @@
 [![Linkedin: naufal](https://img.shields.io/badge/-naufal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrnpal/)](https://www.linkedin.com/in/mrnpal/)
 ![GitHub followers](https://img.shields.io/github/followers/mrnpal?label=Follow&style=social)
 
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 
 ### 📫 Like to meet me?
 
