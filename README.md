@@ -69,7 +69,7 @@ const mrnpal = {
  > 
 > 📜 22 Public Repositories 
  > 
-> 🔑 31 Private Repositories 
+> 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -124,7 +124,7 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2025 00:35:10 UTC
+ Last Updated on 28/05/2025 00:35:10 WIB
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
