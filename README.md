@@ -8,8 +8,6 @@
 [![Linkedin: naufal](https://img.shields.io/badge/-naufal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrnpal/)](https://www.linkedin.com/in/mrnpal/)
 ![GitHub followers](https://img.shields.io/github/followers/mrnpal?label=Follow&style=social)
 
-
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
