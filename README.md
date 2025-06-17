@@ -93,7 +93,7 @@ Sunday                   1981 commits        ██████░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Dubai
+🕑︎ Time Zone: Jakarata
 
 💬 Programming Languages: 
 TypeScript               47 hrs 39 mins      ███████████████████████░░   93.81 % 
